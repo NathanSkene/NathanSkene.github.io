@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NATHAN SKENE</title>
-    <link>/public/tags/</link>
+    <link>https://NathanSkene.github.io/public/tags/</link>
     <description>Recent content in Tags on NATHAN SKENE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/public/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://NathanSkene.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/public/tags/academic/</link>
+      <link>https://NathanSkene.github.io/public/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/public/tags/academic/</guid>
+      <guid>https://NathanSkene.github.io/public/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Deep-learning</title>
-      <link>/public/tags/deep-learning/</link>
+      <link>https://NathanSkene.github.io/public/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/public/tags/deep-learning/</guid>
+      <guid>https://NathanSkene.github.io/public/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/public/tags/demo/</link>
+      <link>https://NathanSkene.github.io/public/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/public/tags/demo/</guid>
+      <guid>https://NathanSkene.github.io/public/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>/public/tags/plot/</link>
+      <link>https://NathanSkene.github.io/public/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/public/tags/plot/</guid>
+      <guid>https://NathanSkene.github.io/public/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/public/tags/r-markdown/</link>
+      <link>https://NathanSkene.github.io/public/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/public/tags/r-markdown/</guid>
+      <guid>https://NathanSkene.github.io/public/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>/public/tags/regression/</link>
+      <link>https://NathanSkene.github.io/public/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/public/tags/regression/</guid>
+      <guid>https://NathanSkene.github.io/public/tags/regression/</guid>
       <description></description>
     </item>
     
