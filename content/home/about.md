@@ -13,7 +13,8 @@ weight = 5
     "Neurobiology",
     "Human Genetics",
     "Psychiatric Disorders",
-    "Transcriptomics"
+    "Transcriptomics",
+    "Bioinformatics"
   ]
 
 # List your qualifications (such as academic degrees).
