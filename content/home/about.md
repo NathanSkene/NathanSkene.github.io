@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Molecular Biology
+  course = "PhD in Molecular Biology"
   institution = "Wellcome Trust Sanger Institute, University of Cambridge"
   year = 2014
 
