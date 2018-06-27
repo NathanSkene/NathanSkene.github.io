@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Molecular Psychiatry"
-publication_short = "MolPsy"
+publication_short = "Molecular Psychiatry"
 
 # Abstract and optional shortened version.
 abstract = "Variance in IQ is associated with a wide range of health outcomes, and 1% of the population are affected by intellectual disability. Despite a century of research, the fundamental neural underpinnings of intelligence remain unclear. We integrate results from genome-wide association studies (GWAS) of intelligence with brain tissue and single cell gene expression data to identify tissues and cell types associated with intelligence. GWAS data for IQ (N = 78,308) were meta-analyzed with a study comparing 1247 individuals with mean IQ ~170 to 8185 controls. Genes associated with intelligence implicate pyramidal neurons of the somatosensory cortex and CA1 region of the hippocampus, and midbrain embryonic GABAergic neurons. Tissue-specific analyses find the most significant enrichment for frontal cortex brain expressed genes. These results suggest specific neuronal cell types and genes may be involved in intelligence and provide new hypotheses for neuroscience experiments using model systems."
@@ -37,14 +37,14 @@ projects = ["example-external-project.md"]
 
 # Links (optional).
 url_pdf = "https://www.nature.com/articles/s41380-018-0040-6"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_preprint = ""
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/bioPsychIQ.jpg"
 caption = "My caption :smile:"
 
 +++

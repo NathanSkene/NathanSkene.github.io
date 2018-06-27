@@ -7,15 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://NathanSkene.github.io/public/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence</title>
+      <link>https://NathanSkene.github.io/public/publication/savage-iq-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://NathanSkene.github.io/public/publication/savage-iq-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of genome-wide association studies for neuroticism in 449,484 individuals identifies novel genetic loci and pathways</title>
+      <link>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics</title>
+      <link>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>Genetic identification of brain cell types underlying schizophrenia</title>
       <link>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</link>
-      <pubDate>Mon, 21 May 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -24,7 +51,7 @@
     <item>
       <title>Biological annotation of genetic loci associated with intelligence in a meta-analysis of 87,740 individuals</title>
       <link>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</link>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -33,7 +60,7 @@
     <item>
       <title>Proteomic analysis of postsynaptic proteins in regions of the human neocortex</title>
       <link>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -42,7 +69,7 @@
     <item>
       <title>A genomic lifespan program that reorganises the young adult brain is targeted in schizophrenia</title>
       <link>https://NathanSkene.github.io/public/publication/skene-elife-2017/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/skene-elife-2017/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -51,7 +78,7 @@
     <item>
       <title>Identification of Vulnerable Cell Types in Major Brain Disorders Using Single Cell Transcriptomes and Expression Weighted Cell Type Enrichment</title>
       <link>https://NathanSkene.github.io/public/publication/ewce-2016/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/ewce-2016/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -60,7 +87,7 @@
     <item>
       <title>Stress-induced lipocalin-2 controls dendritic spine formation and neuronal activity in the amygdala</title>
       <link>https://NathanSkene.github.io/public/publication/mariusz-2013/</link>
-      <pubDate>Tue, 09 Apr 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0200</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/mariusz-2013/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -69,7 +96,7 @@
     <item>
       <title>TNiK Is Required for Postsynaptic and Nuclear Signaling Pathways and Cognitive Function</title>
       <link>https://NathanSkene.github.io/public/publication/tnik-2012/</link>
-      <pubDate>Wed, 03 Oct 2012 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 03 Oct 2012 00:00:00 +0200</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/tnik-2012/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>

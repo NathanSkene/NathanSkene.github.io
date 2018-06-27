@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Nature Neuroscience"
-publication_short = "NatNeuro"
+publication_short = "Nature Neuroscience"
 
 # Abstract and optional shortened version.
 abstract = "The postsynaptic proteome of excitatory synapses comprises ~1,000 highly conserved proteins that control the behavioral repertoire, and mutations disrupting their function cause >130 brain diseases. Here, we document the composition of postsynaptic proteomes in human neocortical regions and integrate it with genetic, functional and structural magnetic resonance imaging, positron emission tomography imaging, and behavioral data. Neocortical regions show signatures of expression of individual proteins, protein complexes, biochemical and metabolic pathways. We characterized the compositional signatures in brain regions involved with language, emotion and memory functions. Integrating large-scale GWAS with regional proteome data identifies the same cortical region for smoking behavior as found with fMRI data. The neocortical postsynaptic proteome data resource can be used to link genetics to brain imaging and behavior, and to study the role of postsynaptic proteins in localization of brain functions."
@@ -37,14 +37,14 @@ projects = ["example-external-project.md"]
 
 # Links (optional).
 url_pdf = "https://www.nature.com/articles/s41593-017-0025-9"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_preprint = ""
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/smoking.jpg"
 caption = "My caption :smile:"
 
 +++

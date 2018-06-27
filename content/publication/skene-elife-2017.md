@@ -37,14 +37,14 @@ projects = ["example-external-project.md"]
 
 # Links (optional).
 url_pdf = "https://elifesciences.org/articles/17915"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_preprint = ""
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/elifeALIGET.jpg"
 caption = "My caption :smile:"
 
 +++

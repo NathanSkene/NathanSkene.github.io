@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Nature Genetics"
-publication_short = "NatGen"
+publication_short = "Nature Genetics"
 
 # Abstract and optional shortened version.
 abstract = "With few exceptions, the marked advances in knowledge about the genetic basis of schizophrenia have not converged on findings that can be confidently used for precise experimental modeling. By applying knowledge of the cellular taxonomy of the brain from single-cell RNA sequencing, we evaluated whether the genomic loci implicated in schizophrenia map onto specific brain cell types. We found that the common-variant genomic results consistently mapped to pyramidal cells, medium spiny neurons (MSNs) and certain interneurons, but far less consistently to embryonic, progenitor or glial cells. These enrichments were due to sets of genes that were specifically expressed in each of these cell types. We also found that many of the diverse gene sets previously associated with schizophrenia (genes involved in synaptic function, those encoding mRNAs that interact with FMRP, antipsychotic targets, etc.) generally implicated the same brain cell types. Our results suggest a parsimonious explanation: the common-variant genetic results for schizophrenia point at a limited set of neurons, and the gene sets point to the same cells. The genetic risk associated with MSNs did not overlap with that of glutamatergic pyramidal cells and interneurons, suggesting that different cell types have biologically distinct roles in schizophrenia."
@@ -38,13 +38,13 @@ projects = ["example-external-project.md"]
 # Links (optional).
 url_pdf = "https://www.nature.com/articles/s41588-018-0129-5.pdf"
 url_preprint = "https://www.biorxiv.org/content/early/2017/06/02/145466"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/schizNatGen.jpg"
 caption = "My caption :smile:"
 
 +++
