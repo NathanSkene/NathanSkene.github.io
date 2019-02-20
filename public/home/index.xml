@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://NathanSkene.github.io/public/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,17 +15,16 @@
     <item>
       <title></title>
       <link>https://NathanSkene.github.io/public/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/home/about/</guid>
-      <description>Biography I am a postdoctoral researcher at the Karolinska Institutet where I works with Jens Hjerling-Leffler. My interests lie in using human genetics to gain insight into the neurobiology of psychiatric disorders and cognitive traits. Currently I am focused on identifying the causal cell types underlying complex genetic traits.
-I gained an undergraduate degree in Artificial Intelligence and Cybernetics from the University of Reading in 2008, followed by an MPhil at the University of Cambridge in Computational Biology in 2009.</description>
+      <description>Biography I am an independent Safra research fellow at Imperial College&amp;rsquo;s Dementia Research Institute. My interests lie in using human genetics to gain insight into the neurobiology of brain disorders and cognitive traits. Currently I am focused on identifying the causal cell types underlying complex genetic traits. The motivation for this is that traditional approaches to science have been unable to yield definitive answers on which cell types are the primary cause of major diseases, such as Schizophrenia or Alzheimers.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>https://NathanSkene.github.io/public/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/home/publications_selected/</guid>
       <description></description>
@@ -34,7 +33,7 @@ I gained an undergraduate degree in Artificial Intelligence and Cybernetics from
     <item>
       <title>Recent Publications</title>
       <link>https://NathanSkene.github.io/public/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/home/publications/</guid>
       <description></description>
@@ -43,7 +42,7 @@ I gained an undergraduate degree in Artificial Intelligence and Cybernetics from
     <item>
       <title>Contact</title>
       <link>https://NathanSkene.github.io/public/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/home/contact/</guid>
       <description></description>

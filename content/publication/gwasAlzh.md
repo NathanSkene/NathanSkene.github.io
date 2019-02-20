@@ -1,6 +1,6 @@
 +++
-title = "Genetic meta-analysis identifies 9 novel loci and functional pathways for Alzheimers disease risk"
-date = 2018-02-22T00:00:00
+title = "Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer’s disease risk"
+date = 2019-01-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["I Jansen", "J Savage", "K Watanabe", "J Bryois", "D Williams", "S Steinberg", "J Sealock", "I Karlsson", "S Hagg", "L Athanasiu", "N Voyle", "P Proitsi", "A Witoelar", "S Stringer", "D Aarsland", "I Almdahl", "F Andersen", "S Bergh", "F Bettella", "S Bjornsson", "A Braekhus", "G Brathen", "C Leeuw", "R Desikan", "S Djurovic", "L Dumitrescu", "T Fladby", "T Homan", "P Jonsson", "A Rongve", "I Saltvedt", "S Sando", "G Selbak", "N Skene", "J Snaedal", "E Stordal", "I Ulstein", "Y Wang", "L White", "J Hjerling-Leffler", "P Sullivan", "W van der Flier", "R Dobson", "L Davis", "H Stefansson", "K Stefansson", "N Pedersen", "S Ripke", "O Andreassen", "D Posthuma"]
@@ -17,8 +17,8 @@ authors = ["I Jansen", "J Savage", "K Watanabe", "J Bryois", "D Williams", "S St
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "bioRxiv"
-publication_short = "bioRxiv"
+publication = "Nature Genetics"
+publication_short = "NatGen"
 
 # Abstract and optional shortened version.
 abstract = "Late onset Alzheimer's disease (AD) is the most common form of dementia with more than 35 million people affected worldwide, and no curative treatment available. AD is highly heritable and recent genome-wide meta-analyses have identified over 20 genomic loci associated with AD, yet only explaining a small proportion of the genetic variance indicating that undiscovered loci exist. Here, we performed the largest genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 AD cases, 383,378 controls). AD-by-proxy status is based on parental AD diagnosis, and showed strong genetic correlation with AD (rg=0.81). Genetic meta-analysis identified 29 risk loci, of which 9 are novel, and implicating 215 potential causative genes. Independent replication further supports these novel loci in AD. Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver and microglia). Furthermore, gene-set analyses indicate the genetic contribution of biological mechanisms involved in lipid-related processes and degradation of amyloid precursor proteins. We show strong genetic correlations with multiple health-related outcomes, and Mendelian randomisation results suggest a protective effect of cognitive ability on AD risk. These results are a step forward in identifying more of the genetic factors that contribute to AD risk and add novel insights into the neurobiology of AD to guide new drug development."
@@ -36,7 +36,7 @@ selected = true
 projects = ["example-external-project.md"]
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/early/2018/02/22/258533"
+url_pdf = "https://www.nature.com/articles/s41588-018-0311-9"
 # url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"

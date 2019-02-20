@@ -36,7 +36,7 @@ selected = true
 projects = ["example-external-project.md"]
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/s41588-018-0151-7"
+url_pdf = "https://www.nature.com/articles/s41588-018-0152-6"
 # url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"

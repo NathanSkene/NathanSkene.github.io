@@ -59,7 +59,10 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name="Hjerling-Leffler lab", url="http://www.hjerling-leffler-lab.org/"},{ name = "Karolinska Institute", url = "http://ki.se/en/startpage" } ]
+  #   organizations = [ {name="Hjerling-Leffler lab", url="http://www.hjerling-leffler-lab.org/"},{ name = "Karolinska Institute", url = "http://ki.se/en/startpage" } ]
+  organizations = [ {name="Skene lab", url="http://www.nathanskene.com/"},
+  { name = "UK Dementia Research Institute", url = "https://ukdri.ac.uk/" },
+  { name = "Imperial College", url = "https://www.imperial.ac.uk/dementia-research-institute/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Jens_Grupp_ZIM_6681_square.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -226,7 +229,8 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:nathan.skene@ki.se"
+    #link = "mailto:nathan.skene@ki.se"
+    link = "mailto:n.skene@imperial.ac.uk"
 
   [[params.social]]
     icon = "twitter"

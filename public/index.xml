@@ -7,13 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     <atom:link href="/public/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Genetic Identification of Cell Types Underlying Brain Complex Traits Yields Novel Insights Into the Etiology of Parkinson&#39;s Disease</title>
+      <link>https://NathanSkene.github.io/public/publication/celltypemapping2019/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://NathanSkene.github.io/public/publication/celltypemapping2019/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer’s disease risk</title>
+      <link>https://NathanSkene.github.io/public/publication/gwasalzh/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://NathanSkene.github.io/public/publication/gwasalzh/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A spatial atlas of inhibitory cell types in mouse hippocampus</title>
       <link>https://NathanSkene.github.io/public/publication/spatialatlas/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/spatialatlas/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -23,7 +43,7 @@
     <item>
       <title>Diversity of Interneurons in the Dorsal Striatum Revealed by Single-Cell RNA Sequencing and PatchSeq</title>
       <link>https://NathanSkene.github.io/public/publication/striatumscrna/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/striatumscrna/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -33,7 +53,7 @@
     <item>
       <title>Molecular architecture of the mouse nervous system</title>
       <link>https://NathanSkene.github.io/public/publication/moleculararch/</link>
-      <pubDate>Thu, 09 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/moleculararch/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -43,7 +63,7 @@
     <item>
       <title>Architecture of the Mouse Brain Synaptome</title>
       <link>https://NathanSkene.github.io/public/publication/architecture-of-the-mouse-brain-synaptome/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/architecture-of-the-mouse-brain-synaptome/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -53,7 +73,7 @@
     <item>
       <title>Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence</title>
       <link>https://NathanSkene.github.io/public/publication/savage-iq-2018/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/savage-iq-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -63,7 +83,7 @@
     <item>
       <title>Meta-analysis of genome-wide association studies for neuroticism in 449,484 individuals identifies novel genetic loci and pathways</title>
       <link>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -73,7 +93,7 @@
     <item>
       <title>Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics</title>
       <link>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -83,7 +103,7 @@
     <item>
       <title>Genetic identification of brain cell types underlying schizophrenia</title>
       <link>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</link>
-      <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -93,7 +113,7 @@
     <item>
       <title>Biological annotation of genetic loci associated with intelligence in a meta-analysis of 87,740 individuals</title>
       <link>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</link>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -101,19 +121,9 @@
     </item>
     
     <item>
-      <title>Genetic meta-analysis identifies 9 novel loci and functional pathways for Alzheimers disease risk</title>
-      <link>https://NathanSkene.github.io/public/publication/gwasalzh/</link>
-      <pubDate>Thu, 22 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://NathanSkene.github.io/public/publication/gwasalzh/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Genome-Wide Meta-Analysis of Insomnia Complaints (N=1,331,010) Identifies Novel Genetic Loci and Functional Pathways</title>
       <link>https://NathanSkene.github.io/public/publication/gwasinsomnia/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/gwasinsomnia/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -123,7 +133,7 @@
     <item>
       <title>Proteomic analysis of postsynaptic proteins in regions of the human neocortex</title>
       <link>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -133,7 +143,7 @@
     <item>
       <title>A genomic lifespan program that reorganises the young adult brain is targeted in schizophrenia</title>
       <link>https://NathanSkene.github.io/public/publication/skene-elife-2017/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/publication/skene-elife-2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -143,7 +153,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://NathanSkene.github.io/public/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://NathanSkene.github.io/public/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -156,15 +166,6 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://NathanSkene.github.io/public/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://NathanSkene.github.io/public/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
