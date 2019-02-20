@@ -1,170 +1,287 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NATHAN SKENE on NATHAN SKENE</title>
-    <link>https://NathanSkene.github.io/public/</link>
-    <description>Recent content in NATHAN SKENE on NATHAN SKENE</description>
+    <title>Skene Lab on Skene Lab</title>
+    <link>/</link>
+    <description>Recent content in Skene Lab on Skene Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/public/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Feb 2019 02:57:45 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cell type mapping for 28 traits against whole nervous system</title>
+      <link>/post/imp-perspectives/</link>
+      <pubDate>Wed, 20 Feb 2019 02:57:45 +0000</pubDate>
+      
+      <guid>/post/imp-perspectives/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/528463v1&#34;&gt;latest preprint&lt;/a&gt; on cell type mapping is now available on bioRxiv.&lt;br&gt;This work was a collaboration with the Hjerling-Leffler and Sullivan labs. Some of the most exciting findings relate to Parkinson&amp;rsquo;s disease: we discover genetic associations with most the celltypes known to degenerate in the disease (suggesting this occurs cell autonomously) but also discovered a new link to Oligodendrocytes.&lt;/p&gt;
+
+&lt;p&gt;We tested for associations with 231 cell types from the mouse central, peripheral and enteric nervous systems. We used single cell transcriptome data from @slinnarsson recent &lt;a href=&#34;https://is.gd/TDuwm7&#34;&gt;cell type atlas&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig0%20-%20All%20traits,%20all%20cell%20types.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As in our previous paper (&lt;a href=&#34;https://is.gd/Vwval4&#34; target=&#34;_blank&#34;&gt;https://is.gd/Vwval4&lt;/a&gt; ) we used two distinct methods: MAGMA tested for a positive relationship between gene specificity and gene-level genetic associations; LDSC tested if the 10% most specific genes in a cell are enriched for trait heritability.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig1%20-%20MAGMA%20and%20LDSC.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As with our previous schizophrenia findings, the strongest signals were in cortical + CA1 pyramidal neurons, D2 medium spiny neurons, and Reln/Ndnf expressing interneurons. Importantly however, we also found another strongly enriched cell type in the superior colliculus (MEGLU6)&lt;/p&gt;
+
+&lt;p&gt;Excitatory neurons from cortical layer 5 (TEGLU4) project to the superior colliculus and to the striatum. MEGLU6 is located in the superior colliculus, while MSN2 is located in the striatum. This may imply a circuit between these cell types may be disrupted in schizophrenia.&lt;/p&gt;
+
+&lt;p&gt;As before, we did not observe any significant associations with immune or vascular cells for schizophrenia nor any other psychiatric disorders or cognitive traits.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig2%20-%20Schiz%20most%20associated.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;BMI had strongest associations with neurons in the midbrain (MEGLU10), hypothalamus (DEINH3) and solitary nucleus (HBGLU3). The hypothalamus is plays a major role in weight regulation, and the solitary nucleus is involved in gustatory processing and projects to the hypothalamus&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig3%20-%20BMI.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Stroke and migraine were significantly associated with arterial smooth muscle cells (VSMCA), indicating that vascular process play a central role in these traits.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig4%20-%20Stroke.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Thanks to @23andMeResearch we were able to analyse a new Parkinsons GWAS (12,657 cases, 941,588 controls). We meta-analysed this with an existing PD GWAS (9,581 cases, 33,245 controls). This was exciting as the hallmark sign of PD is degeneration of a specific cell type.&lt;/p&gt;
+
+&lt;p&gt;The degenerating cells (MBDOP2) were highly associated with the PD common variants. Strikingly, other cell types which degenerate in PD also showed strong associations, including serotonergic raphe nucleus neurons (HBSER2) and cholinergic neurons of the Pons (HBCHO2)&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig5%20-%20Parkinsons.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;While the neuronal associations with PD confirmed our expectations, we also found strong association with the oligodendrocyte lineage (NFOL2, MFOL1, COP1, NFOL1, MOL1, MFOL2, COP2, MOL2) which was totally unexpected.&lt;/p&gt;
+
+&lt;p&gt;We tested if the oligodendrocyte lineage cells shared a common genetic disease mechanism with the neuronal cell types, using a conditional enrichment approach. While the neurons (i.e. MBDOP2 and HBSER2) shared mechanisms together, this did not overlap with oligodendrocytes.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig6%20-%20PD%20conditional.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Our results suggest that shared biological mechanisms intrinsic to MBDOP2 and HBSER2 neuronal cell types lead to their selective loss in Parkinsons disease. They also indicate that a separate and hitherto unknown disease mechanisms exists involving oligodendrocytes.&lt;/p&gt;
+
+&lt;p&gt;Struck by the novelty of this link between Parkinsons and Oligodendrocyte lineage cells we set out to establish if further evidence would either support or refute this.&lt;/p&gt;
+
+&lt;p&gt;We used EWCE to find which cell types are enriched for genes with rare variants associated with Parkinsonism. MBDOP2 were the most significantly enriched (p&amp;lt;0.0001/231). We did not observe any significant enrichments in oligodendrocyte lineage for these rare variants.&lt;/p&gt;
+
+&lt;p&gt;This potentially indicates a difference between the common and rare variant forms of Parkinsons, or that the Parkinsonism associated variants are more directly related only to the prominent symptoms (note Parkinsonism!=Parkinsons).&lt;/p&gt;
+
+&lt;p&gt;We then used EWCE to find cell types altered in human post-mortem Parkinson’s disease brain. In three seperate studies, downregulated genes were specifically enriched in dopaminergic neurons, while upregulated genes were significantly enriched in oligodendrocyte lineage cells.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig7%20-%20PD%20transcriptome%201.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We then analysed data from post-mortem human brains which had been scored by neuropathologists for their Braak stage. This showed that upregulation of oligodendrocyte genes is already found at Braak stage &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; which precedes dopaminergic neuron downregulation and degeneration.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/celltypemapping2019/Fig8%20-%20PD%20transcriptome%202.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;These results not only support the genetic evidence indicating that oligodendrocytes may play a causal role in Parkinson’s disease, but indicate that their involvement precedes the emergence of pathological changes in neurons of the substantia nigra.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Genetic Identification of Cell Types Underlying Brain Complex Traits Yields Novel Insights Into the Etiology of Parkinson&#39;s Disease</title>
-      <link>https://NathanSkene.github.io/public/publication/celltypemapping2019/</link>
+      <link>/publication/celltypemapping2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/celltypemapping2019/</guid>
+      <guid>/publication/celltypemapping2019/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer’s disease risk</title>
-      <link>https://NathanSkene.github.io/public/publication/gwasalzh/</link>
+      <link>/publication/gwasalzh/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/gwasalzh/</guid>
+      <guid>/publication/gwasalzh/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A spatial atlas of inhibitory cell types in mouse hippocampus</title>
-      <link>https://NathanSkene.github.io/public/publication/spatialatlas/</link>
+      <link>/publication/spatialatlas/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/spatialatlas/</guid>
+      <guid>/publication/spatialatlas/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Diversity of Interneurons in the Dorsal Striatum Revealed by Single-Cell RNA Sequencing and PatchSeq</title>
-      <link>https://NathanSkene.github.io/public/publication/striatumscrna/</link>
+      <link>/publication/striatumscrna/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/striatumscrna/</guid>
+      <guid>/publication/striatumscrna/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Molecular architecture of the mouse nervous system</title>
-      <link>https://NathanSkene.github.io/public/publication/moleculararch/</link>
+      <link>/publication/moleculararch/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/moleculararch/</guid>
+      <guid>/publication/moleculararch/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Architecture of the Mouse Brain Synaptome</title>
-      <link>https://NathanSkene.github.io/public/publication/architecture-of-the-mouse-brain-synaptome/</link>
+      <link>/publication/architecture-of-the-mouse-brain-synaptome/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/architecture-of-the-mouse-brain-synaptome/</guid>
+      <guid>/publication/architecture-of-the-mouse-brain-synaptome/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence</title>
-      <link>https://NathanSkene.github.io/public/publication/savage-iq-2018/</link>
+      <link>/publication/savage-iq-2018/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/savage-iq-2018/</guid>
+      <guid>/publication/savage-iq-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Meta-analysis of genome-wide association studies for neuroticism in 449,484 individuals identifies novel genetic loci and pathways</title>
-      <link>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</link>
+      <link>/publication/nagal-neuroticism-2018/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</guid>
+      <guid>/publication/nagal-neuroticism-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics</title>
-      <link>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</link>
+      <link>/publication/kenharris-2018-ca1/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</guid>
+      <guid>/publication/kenharris-2018-ca1/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genetic identification of brain cell types underlying schizophrenia</title>
-      <link>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</link>
+      <link>/publication/skene-natgen-2018/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</guid>
+      <guid>/publication/skene-natgen-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Biological annotation of genetic loci associated with intelligence in a meta-analysis of 87,740 individuals</title>
-      <link>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</link>
+      <link>/publication/geromeiq-molpsy-2018/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</guid>
+      <guid>/publication/geromeiq-molpsy-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genome-Wide Meta-Analysis of Insomnia Complaints (N=1,331,010) Identifies Novel Genetic Loci and Functional Pathways</title>
-      <link>https://NathanSkene.github.io/public/publication/gwasinsomnia/</link>
+      <link>/publication/gwasinsomnia/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/gwasinsomnia/</guid>
+      <guid>/publication/gwasinsomnia/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proteomic analysis of postsynaptic proteins in regions of the human neocortex</title>
-      <link>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</link>
+      <link>/publication/marcia-proteome-2018/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</guid>
+      <guid>/publication/marcia-proteome-2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A genomic lifespan program that reorganises the young adult brain is targeted in schizophrenia</title>
-      <link>https://NathanSkene.github.io/public/publication/skene-elife-2017/</link>
+      <link>/publication/skene-elife-2017/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/publication/skene-elife-2017/</guid>
+      <guid>/publication/skene-elife-2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://NathanSkene.github.io/public/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://NathanSkene.github.io/public/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sten Linnarsson on Skene Lab</title>
+    <link>/authors/sten-linnarsson/</link>
+    <description>Recent content in Sten Linnarsson on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/sten-linnarsson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular architecture of the mouse nervous system</title>
+      <link>/publication/moleculararch/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moleculararch/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence</title>
+      <link>/publication/savage-iq-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/savage-iq-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of genome-wide association studies for neuroticism in 449,484 individuals identifies novel genetic loci and pathways</title>
+      <link>/publication/nagal-neuroticism-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nagal-neuroticism-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics</title>
+      <link>/publication/kenharris-2018-ca1/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kenharris-2018-ca1/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Genetic identification of brain cell types underlying schizophrenia</title>
+      <link>/publication/skene-natgen-2018/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/skene-natgen-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Biological annotation of genetic loci associated with intelligence in a meta-analysis of 87,740 individuals</title>
+      <link>/publication/geromeiq-molpsy-2018/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/geromeiq-molpsy-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

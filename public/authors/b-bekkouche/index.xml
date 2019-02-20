@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Bekkouche on Skene Lab</title>
+    <link>/authors/b-bekkouche/</link>
+    <description>Recent content in B Bekkouche on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/b-bekkouche/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diversity of Interneurons in the Dorsal Striatum Revealed by Single-Cell RNA Sequencing and PatchSeq</title>
+      <link>/publication/striatumscrna/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/striatumscrna/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

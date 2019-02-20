@@ -2,316 +2,2933 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+    <url>
+    
+      <loc>/post/imp-perspectives/</loc>
+      <lastmod>2019-02-20T02:57:45+00:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/celltypemapping2019/</loc>
+      <loc>/publication/celltypemapping2019/</loc>
       <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/gwasalzh/</loc>
+      <loc>/publication/gwasalzh/</loc>
       <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/spatialatlas/</loc>
+      <loc>/publication/spatialatlas/</loc>
       <lastmod>2018-10-01T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/striatumscrna/</loc>
+      <loc>/publication/striatumscrna/</loc>
       <lastmod>2018-08-21T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/moleculararch/</loc>
+      <loc>/publication/moleculararch/</loc>
       <lastmod>2018-08-09T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/architecture-of-the-mouse-brain-synaptome/</loc>
+      <loc>/publication/architecture-of-the-mouse-brain-synaptome/</loc>
       <lastmod>2018-08-02T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/savage-iq-2018/</loc>
+      <loc>/publication/savage-iq-2018/</loc>
       <lastmod>2018-06-25T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/nagal-neuroticism-2018/</loc>
+      <loc>/publication/nagal-neuroticism-2018/</loc>
       <lastmod>2018-06-25T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/kenharris-2018-ca1/</loc>
+      <loc>/publication/kenharris-2018-ca1/</loc>
       <lastmod>2018-06-18T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/skene-natgen-2018/</loc>
+      <loc>/publication/skene-natgen-2018/</loc>
       <lastmod>2018-05-21T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/geromeiq-molpsy-2018/</loc>
+      <loc>/publication/geromeiq-molpsy-2018/</loc>
       <lastmod>2018-03-08T00:00:00+00:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/gwasinsomnia/</loc>
+      <loc>/publication/gwasinsomnia/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/marcia-proteome-2018/</loc>
+      <loc>/publication/marcia-proteome-2018/</loc>
       <lastmod>2017-12-04T00:00:00+00:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/skene-elife-2017/</loc>
+      <loc>/publication/skene-elife-2017/</loc>
       <lastmod>2017-09-12T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://NathanSkene.github.io/public/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://NathanSkene.github.io/public/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://NathanSkene.github.io/public/project/deep-learning/</loc>
+      <loc>/software/ewce/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/project/example-external-project/</loc>
+      <loc>/software/magma_celltyping/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <loc>/people/nathanskene/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>/software/one2one/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/ewce-2016/</loc>
+      <loc>/datasets/allki/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/ewce-2016/</loc>
       <lastmod>2016-01-27T00:00:00+00:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://NathanSkene.github.io/public/publication/mariusz-2013/</loc>
+      <loc>/publication/mariusz-2013/</loc>
       <lastmod>2013-04-09T00:00:00+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/publication/tnik-2012/</loc>
+      <loc>/publication/tnik-2012/</loc>
       <lastmod>2012-10-03T00:00:00+01:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>/author/admin/</loc>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/categories/</loc>
+      <loc>/author/nathanskene/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/openpositions/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
+    <url>
+    
+      <loc>/authors/23andme-research-team/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/deep-learning/</loc>
+      <loc>/authors/a-braekhus/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a-mu%C3%B1oz-manchado/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a-rongve/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a-witoelar/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a-zeisel/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/aarno-palotie/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ahmad-r.-hariri/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/aiden-corvin/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alessandro-furlan/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alex-hatzimanolis/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/amit-zeisel/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ana-b-munoz-manchado/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ana-b.-mu%C3%B1oz-manchado/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ana-munoz-manchado/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ana-mu%C3%B1oz-manchado/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/andrea-christoforou/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/andreas-heinz/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anil-k.-malhotra/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anke-r-hammerschlag/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anke-r.-hammerschlag/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anna-c.-need/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anna-e-skrzypiec/</loc>
+      <lastmod>2013-04-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anna-johnsson/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/antonio-f-pardi%C3%B1as/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/antony-payton/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/aristotle-n.-voineskos/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/astri-j.-lundervold/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/august-b-smit/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/b-bekkouche/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bettina-konte/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/birgit-debrabant/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bradley-t.-webb/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/c-gonzales/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/c-leeuw/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/carolina-bengtsson-gonzales/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chandra-a.-reynolds/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/christiaan-a.-de-leeuw/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chrstiaan-a-de-leeuw/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cl%C3%A9mence-simonnet/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/colin-smith/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cynthia-m.-bulik/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/d-aarsland/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/d-posthuma/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/d-williams/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/dan-e.-arking/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/dan-rujescu/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/daniel-r.-weinberger/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/danielle-m.-dick/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/danielle-posthuma/</loc>
+      <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/datasets/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
+    <url>
+    
+      <loc>/authors/david-a-hinds/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/demo/</loc>
+      <loc>/authors/david-c.-glahn/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/david-c.-liewald/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/david-g.-fricker/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/deborah-koltai/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/</loc>
-      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+      <loc>/authors/delilah-zabaneh/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/authors/derek-morris/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
+    <url>
+    
+      <loc>/authors/dimitrios-avramopoulos/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/project/</loc>
+      <loc>/authors/dimitris-nicoloutsopoulos/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/dwight-dickinson/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/e-frans%C3%A9n/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/e-stordal/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eating-disorders-working-group-of-the-psychiatric-genomics-consortium/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ed-s.-lein/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/edythe-london/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/elisabeth-widen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eliza-congdon/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/elizabeth-t.-cirulli/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ellie-j.-tuck/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/emanuele-schiavon/</loc>
+      <lastmod>2013-04-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/emanuele-sher/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/emelie-braun/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/emily-drabant-conley/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/emma-knowles/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/erin-b.-quinlan/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ernest-arenas/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eus-jw-van-someren/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eva-baker/</loc>
+      <lastmod>2013-04-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eva-krapohl/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/f-andersen/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/f-bettella/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/f-zhu/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fatima-memic/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/francesca-mazzo/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fred-w.-sabb/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/g-brathen/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/g-selbak/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gail-davies/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gary-donohoe/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gerome-breen/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gioele-la-manno/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/goncalo-abecasis/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/grant-w.-montgomery/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/greg-crawford/</loc>
+      <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gunter-schumann/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/h-munguba/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/h-stefansson/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hannah-hochgerner/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hannah-young/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/henning-tiemeier/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hunna-j.-watson/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/h%C3%A9l%C3%A9na-a-gaspar/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/h%C3%A9l%C3%A9na-a.-gaspar/</loc>
+      <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/i-almdahl/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/i-jansen/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/i-karlsson/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/i-saltvedt/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/i-ulstein/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ian-j.-deary/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ida-k.-karlsson/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ina-giegling/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ingrid-melle/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/international-headache-genetics-consortium/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ivar-reinvang/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-bryois/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-defelipe/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-hjerling-leffler/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-ryge/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-savage/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-sealock/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-snaedal/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j.-douglas-armstrong/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jakob-a.-kaminski/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/james-j-crowley/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/james-t-r-walters/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jari-lahti/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jeanne-e-savage/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jeanne-e.-savage/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jens-hjerling-leffler/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jens-hjerling-leffler/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jeremy-a.-miller/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jeroen-benjamins/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jesper-ryge/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jess-nithianantharajah/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jin-yu/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/job-van-der-zwan/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/joey-w.-trampush/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/johan-g.-eriksson/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/john-m.-starr/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jonathan-r.-i.-coleman/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/joyce-y-tung/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/julien-bryois%5C/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/julien-bryois/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/k-harris/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/k-stefansson/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/k-watanabe/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/katherine-e.-burdick/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kathryn-a.-elsegood/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/katri-r%C3%A4ikk%C3%B6nen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/katrina-l.-grasby/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kenneth-d-harris/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kenneth-s.-kendler/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kjetil-sundet/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kyoko-watanabe/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/l-athanasiu/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/l-davis/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/l-dumitrescu/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/l-white/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lars-borm/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lene-christiansen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/leo-brueggeman/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lianne-e.-stanford/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/linda-katona/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lisa-m.-saksida/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lisette-j.a.-kogelman/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lorenza-magno/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m-cizeron/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m-kopanitsa/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m.-arfan-ikram/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/major-depressive-disorder-working-group-of-the-psychiatric-genomics-consortium/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/maksym-v.-kopanitsa/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/marcelo-p.-coba/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/marcia-roy/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/margaret-j.-wright-danielle-posthuma/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/marianne-nygaard/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mariusz-mucha/</loc>
+      <lastmod>2013-04-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/martin-haring/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mats-nagel/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mats-nilsson/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/matthew-a.-scult/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/matthew-c.-keller/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/max-lam/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/michael-c-odonovan/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/michael-gill/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/michael-j-owen/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/n-komiyama/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/n-pedersen/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/n-skene/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/n-voyle/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nancy-l.-pedersen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/narelle-k.-hansell/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nathan-g.-skene%5C/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nathan-g-skene/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nathan-g.-skene/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nathan-skene/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/neil-pendleton/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nelson-a.-freimer/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nicholas-g.-martin/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nicoletta-kessaris/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nikolaos-smyrnis/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nikos-c.-stefanis/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/noboru-h.-komiyama/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nurudeen-o.-afinowi/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/o-andreassen/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/oksana-sorokina/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/olav-b.-smeland/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ole-a.-andreassen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ornit-chiba-falek/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-jonsson/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-l%C3%B6nnerberg/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-proitsi/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-sullivan/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/pamela-derosse/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/panos-bitsios/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/panos-roussos/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/paola-giusti-rodriguez/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/patrick-f-sullivan/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/patrick-f.-sullivan/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/patrik-ernfors/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/authors/peter-b.-barr/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/authors/peter-lonnerberg/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/authors/peter-somogyi/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
+    <url>
+    
+      <loc>/authors/philip-r-jansen/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://NathanSkene.github.io/public/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/authors/philip-r.-jansen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-02-20T02:57:45+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/preprint/</loc>
+      <lastmod>2019-02-20T02:57:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/r-benavides-piccione/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/r-desikan/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/r-dobson/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/rahul-s-shah/</loc>
+      <lastmod>2013-04-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/rebecca-d-hodge/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/richard-e.-straub/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/robert-karlsson/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/robert-m.-bilder/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/robert-pawlak/</loc>
+      <lastmod>2013-04-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/robert-plomin/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/russell-a.-poldrack/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ruud-zwart/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-bergh/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-bjornsson/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-djurovic/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-grant/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-hagg/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-linnarsson/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-ripke/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-sando/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-steinberg/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-stringer/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sara-h%C3%A4gg/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sarah-e.-medland/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/scott-i.-vrieze/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/seth-g.-n.-grant/</loc>
+      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/seth-g.n.-grant/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/seth-gn-grant/</loc>
+      <lastmod>2017-09-12T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/simone-codeluppi/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-02-20T02:57:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/software/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sophie-van-der-sluis/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sophie-van-der-sluis-danielle-posthuma/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/srdjan-djurovic/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/stella-giakoumaki/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sten-linnarsson/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/stephan-ripke/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/stephanie-le-hellard/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sven-stringer/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/swapnil-awasthi/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/t-fladby/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/t-homan/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/the-23andme-research-team/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thomas-espeseth/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thomas-folkmann-hansen/</loc>
+      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thomas-hauling/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thomas-j.-odell/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tim-indersmitten/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/timothy-j.-bussey/</loc>
+      <lastmod>2012-10-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tinca-j.-c.-polderman/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tinca-jc-polderman/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/todd-lencz/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tonya-white/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/trygve-e.-bakken/</loc>
+      <lastmod>2018-05-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tyrone-d.-cannon/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ulrika-marklund/</loc>
+      <lastmod>2018-08-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/vidar-m.-steen/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/vladimir-vacic/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/w-van-der-flier/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/william-ollier/</loc>
+      <lastmod>2018-06-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/xiaoyan-qian/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/y-wang/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/z-qiu/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nathanskene/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/openpositions/</loc>
       <priority>0</priority>
     </url>
     

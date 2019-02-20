@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openpositions on Skene Lab</title>
+    <link>/authors/openpositions/</link>
+    <description>Recent content in openpositions on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/openpositions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/openpositions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/openpositions/</guid>
+      <description>We are looking to recruit talented researchers to join the lab. Currently we are particularly interested in computational researchers, or those with experience working with single cell RNA-seq, ATAC-seq or post-mortem human brain tissue. However, people with more unconventional backgrounds would be most welcome: if you&amp;rsquo;ve been working in mathematics, engineering or computer science and are looking to get into biology then do get in touch.
+Masters students are invited to get in touch about potential projects.</description>
+    </item>
+    
+  </channel>
+</rss>

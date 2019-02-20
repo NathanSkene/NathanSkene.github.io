@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Hjerling Leffler on Skene Lab</title>
+    <link>/authors/jens-hjerling-leffler/</link>
+    <description>Recent content in Jens Hjerling Leffler on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/jens-hjerling-leffler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular architecture of the mouse nervous system</title>
+      <link>/publication/moleculararch/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moleculararch/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

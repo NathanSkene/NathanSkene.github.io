@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>white-lab on Skene Lab</title>
+    <link>/tags/white-lab/</link>
+    <description>Recent content in white-lab on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/white-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kristina Riemer</title>
+      <link>/people2/yo-mumma/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/people2/yo-mumma/</guid>
+      <description>Kristina studies the importance of size in ecological systems and how it responds to changes in the environment.</description>
+    </item>
+    
+    <item>
+      <title>Apoorva Pandey</title>
+      <link>/people2/nathanskene/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/people2/nathanskene/</guid>
+      <description>Apoorva is an Undergraduate Student in Computer Science. He has been selected in Google Summer of Code 2018 to work with us. He will be working on the project Status Server and Dashboard that will be used for checking the availability and installation of datasets available through Data Retriever.</description>
+    </item>
+    
+  </channel>
+</rss>

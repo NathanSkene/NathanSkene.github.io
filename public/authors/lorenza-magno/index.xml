@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenza Magno on Skene Lab</title>
+    <link>/authors/lorenza-magno/</link>
+    <description>Recent content in Lorenza Magno on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/lorenza-magno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics</title>
+      <link>/publication/kenharris-2018-ca1/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kenharris-2018-ca1/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

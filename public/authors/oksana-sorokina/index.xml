@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oksana Sorokina on Skene Lab</title>
+    <link>/authors/oksana-sorokina/</link>
+    <description>Recent content in Oksana Sorokina on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/oksana-sorokina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proteomic analysis of postsynaptic proteins in regions of the human neocortex</title>
+      <link>/publication/marcia-proteome-2018/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/marcia-proteome-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

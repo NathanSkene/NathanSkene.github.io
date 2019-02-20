@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick F. Sullivan on Skene Lab</title>
+    <link>/authors/patrick-f.-sullivan/</link>
+    <description>Recent content in Patrick F. Sullivan on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/patrick-f.-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic Identification of Cell Types Underlying Brain Complex Traits Yields Novel Insights Into the Etiology of Parkinson&#39;s Disease</title>
+      <link>/publication/celltypemapping2019/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/celltypemapping2019/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence</title>
+      <link>/publication/savage-iq-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/savage-iq-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of genome-wide association studies for neuroticism in 449,484 individuals identifies novel genetic loci and pathways</title>
+      <link>/publication/nagal-neuroticism-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nagal-neuroticism-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Biological annotation of genetic loci associated with intelligence in a meta-analysis of 87,740 individuals</title>
+      <link>/publication/geromeiq-molpsy-2018/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/geromeiq-molpsy-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

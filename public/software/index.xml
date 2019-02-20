@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on NATHAN SKENE</title>
-    <link>/public/software/</link>
-    <description>Recent content in Software on NATHAN SKENE</description>
+    <title>Softwares on Skene Lab</title>
+    <link>/software/</link>
+    <description>Recent content in Softwares on Skene Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/public/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Expression Weighted Celltype Enrichment (EWCE) R Package</title>
-      <link>/public/software/ewce/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <link>/software/ewce/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/public/software/ewce/</guid>
+      <guid>/software/ewce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGMA_Celltyping R Package</title>
+      <link>/software/magma_celltyping/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/software/magma_celltyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One2one R Package</title>
+      <link>/software/one2one/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/software/one2one/</guid>
       <description></description>
     </item>
     

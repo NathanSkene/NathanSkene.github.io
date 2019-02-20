@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan Skene on Skene Lab</title>
+    <link>/authors/nathan-skene/</link>
+    <description>Recent content in Nathan Skene on Skene Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/nathan-skene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A spatial atlas of inhibitory cell types in mouse hippocampus</title>
+      <link>/publication/spatialatlas/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/spatialatlas/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Molecular architecture of the mouse nervous system</title>
+      <link>/publication/moleculararch/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moleculararch/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Biological annotation of genetic loci associated with intelligence in a meta-analysis of 87,740 individuals</title>
+      <link>/publication/geromeiq-molpsy-2018/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/geromeiq-molpsy-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Genome-Wide Meta-Analysis of Insomnia Complaints (N=1,331,010) Identifies Novel Genetic Loci and Functional Pathways</title>
+      <link>/publication/gwasinsomnia/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gwasinsomnia/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Proteomic analysis of postsynaptic proteins in regions of the human neocortex</title>
+      <link>/publication/marcia-proteome-2018/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/marcia-proteome-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Stress-induced lipocalin-2 controls dendritic spine formation and neuronal activity in the amygdala</title>
+      <link>/publication/mariusz-2013/</link>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mariusz-2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

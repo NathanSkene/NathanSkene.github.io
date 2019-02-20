@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on NATHAN SKENE</title>
-    <link>https://NathanSkene.github.io/public/categories/</link>
-    <description>Recent content in Categories on NATHAN SKENE</description>
+    <title>Categories on Skene Lab</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Skene Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="https://NathanSkene.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R</title>
-      <link>https://NathanSkene.github.io/public/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Preprint</title>
+      <link>/categories/preprint/</link>
+      <pubDate>Wed, 20 Feb 2019 02:57:45 +0000</pubDate>
       
-      <guid>https://NathanSkene.github.io/public/categories/r/</guid>
+      <guid>/categories/preprint/</guid>
       <description></description>
     </item>
     
