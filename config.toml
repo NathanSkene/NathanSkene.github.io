@@ -54,14 +54,13 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Nathan Skene"
-  role = "Postdoctoral Researcher in Hjerling-Leffler Molecular Neurobiology Lab"
+  name = "Skene Lab"
+  role = "Neurogenomics Lab"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   #   organizations = [ {name="Hjerling-Leffler lab", url="http://www.hjerling-leffler-lab.org/"},{ name = "Karolinska Institute", url = "http://ki.se/en/startpage" } ]
-  organizations = [ {name="Skene lab", url="http://www.nathanskene.com/"},
-  { name = "UK Dementia Research Institute", url = "https://ukdri.ac.uk/" },
+  organizations = [ { name = "UK Dementia Research Institute", url = "https://ukdri.ac.uk/" },
   { name = "Imperial College", url = "https://www.imperial.ac.uk/dementia-research-institute/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
